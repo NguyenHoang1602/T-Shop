@@ -38,5 +38,6 @@ class TTextTheme {
 
     labelLarge: TextStyle().copyWith( color: Colors.white, fontSize: 12, fontWeight: FontWeight.normal ),
     labelMedium: TextStyle().copyWith( color: Colors.white.withOpacity(0.5), fontSize: 12, fontWeight: FontWeight.normal),
+    
   );
 }
